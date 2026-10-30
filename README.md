@@ -1,6 +1,6 @@
 # Hi. I'm Gerald.
 
-Product Lead for IBM's Agentic AI Platform. I work on the enterprise agent control plane: orchestration, evaluation, governance, and the shared context layer that lets teams run AI agents with confidence rather than optimism.
+Lead Product Manager, Platform at Panorama Education.
 
 The short version of how I got here: Bronx kid. Started out climbing telephone poles for AT&T. Then healthcare compliance software, where being wrong gets counted in patients, not points. Then HashiCorp, building reliability and change-risk systems for a nine-figure cloud portfolio, until IBM bought the company partway through. New badge, same laptop 😂.
 
