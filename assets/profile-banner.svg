@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">Start where it breaks.</title>
+  <desc id="desc">Product, platforms, and the person on shift. A midnight-blue panel with a mint path connecting three platform blocks.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#102A3B" />
+      <stop offset="1" stop-color="#09141F" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#BCD7E8" stroke-opacity=".07" />
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="958" height="278" rx="20" fill="url(#background)" stroke="#315063" />
+  <rect x="1" y="1" width="958" height="278" rx="20" fill="url(#grid)" />
+  <rect x="38" y="39" width="40" height="5" rx="2.5" fill="#8AE5CB" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="38" y="117" fill="#F2F7FA" font-size="64" font-weight="750" letter-spacing="-2">Start where</text>
+    <text x="38" y="186" fill="#8AE5CB" font-size="64" font-weight="750" letter-spacing="-2">it breaks.</text>
+    <text x="40" y="239" fill="#D0DDE7" font-size="19">Product, platforms &amp; the person on shift.</text>
+  </g>
+  <g fill="#142D3D" stroke="#537485" stroke-width="2">
+    <rect x="622" y="63" width="88" height="70" rx="12" />
+    <rect x="810" y="153" width="88" height="70" rx="12" />
+    <rect x="622" y="153" width="88" height="70" rx="12" />
+  </g>
+  <path d="M710 98H752Q768 98 768 114V172Q768 188 784 188H810M710 188H738" fill="none" stroke="#8AE5CB" stroke-width="4" stroke-linecap="round" />
+  <circle cx="666" cy="98" r="9" fill="#8AE5CB" />
+  <path d="m654 188 8 8 16-16" fill="none" stroke="#8AE5CB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="854" cy="188" r="9" fill="#8AE5CB" />
+  <circle cx="752" cy="188" r="4" fill="#E8BA78" />
+</svg>
